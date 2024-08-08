@@ -1,0 +1,1 @@
+[{"name":"getSunV3CognitiveHealthForecastUrlConfig","params":{"days":3,"placeid":"1a91a2e2e558fc6fd3abb564f0bee721cea7911f8f4e82a780e8b4c9158b8d04","conditionType":"coldAndFlu","language":"en-US"}},{"name":"getSunV3DailyForecastWithHeadersUrlConfig","params":{"geocode":"12.96,74.82","units":"m","language":"en-US","duration":"15day"}}]

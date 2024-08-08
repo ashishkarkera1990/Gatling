@@ -1,0 +1,1 @@
+{"query":{"identity":{"fetch":["ECID"]}},"meta":{"configOverrides":{},"state":{"domain":"weather.com","cookiesEnabled":true,"entries":[{"key":"kndctr_C7884A3A64E46D6E0A495EEB_AdobeOrg_identity","value":"CiY3MTE2NDQ0MTM5MDIwMDEyMDk4NDUyNTY0OTEwNTEyMTAzMDkzMFIQCM-W7c_WMRgBKgNWQTYwAfAB8rmP7ZIy"},{"key":"kndctr_C7884A3A64E46D6E0A495EEB_AdobeOrg_cluster","value":"ind1"}]}}}

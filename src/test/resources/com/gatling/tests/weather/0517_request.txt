@@ -1,0 +1,1 @@
+{"requestId":"ea609976-5795-4c18-bc6d-8b5f3f66d295","events":[{"eventId":"AdapterBidStart","elapsed":0},{"eventId":"CdbCallStart","elapsed":0},{"eventId":"CdbCallEnd","elapsed":1758},{"eventId":"AdapterBidEnd","elapsed":1759}]}
